@@ -1,4 +1,25 @@
-# Group-of-pain-and-despair
-ENG220
-initial edit test.
-secondary test
+team-17-ENG220
+Project Abstract
+
+Transportation is a daily challenge for the residents of Cuba, New Mexico, a village of about 462 people (ACS 2020–2024 estimate) in Sandoval County that serves as the hub for thousands of rural residents across ZIP codes covering about 1,814 square miles, including Navajo Nation chapter communities such as Torreon, Counselor and Ojo Encino. Most travel depends on a single highway, US 550, which links Cuba to Albuquerque, an 83-mile drive to the south, and Farmington to the north. Beyond the village, most homes are reached by unpaved county and BIA roads that rut, wash out, or become impassable in mud and snow. Public transit is limited: Rio Metro Route 8 leaves the Cuba Municipal Complex only at 8:19 AM and 3:30 PM, so 76.3% of workers drive alone and none reported commuting by transit (ACS 2024, Table B08006). Fuel is a heavy burden. Gas in Cuba averages about $4.45 per gallon, compared with $4.02 statewide, and residents use more gasoline per person than the state average, spending roughly 9.45% of their income on gas versus about 3% nationwide. Together with vehicle breakdowns, poor road conditions and frequent wildlife-vehicle collisions on US 550, these problems restrict access to jobs, school, health care and other essential services. This project addresses the lack of clear, accessible information about these problems by developing an interactive online dashboard that brings together data on how Cuba residents travel, the condition of the roads they rely on, what fuel costs them, and where the transportation system breaks down. Users will be able to explore commute modes and travel times, household vehicle availability, road condition trends, estimated fuel costs, wildlife collision data, and current NMDOT improvement projects.
+
+Our data comes mainly from the U.S. Census Bureau's American Community Survey (ACS), accessed through Census Reporter (table B08006, Means of Transportation to Work), which provides reliable, publicly available estimates of commuting behavior and vehicle availability for the Village of Cuba and the surrounding 87013 ZIP code. We add data from the New Mexico Department of Transportation (NMDOT), including its US 550 Wildlife Crossings Project and road condition reports to the New Mexico Legislature, along with Rio Metro transit schedules, Sandoval County Public Works, MRCOG traffic counts, AAA New Mexico and iExit fuel prices, U.S. Energy Information Administration (EIA) gasoline consumption estimates (SEDS Table F15), and UNM Bureau of Business and Economic Research population data. Percentages were calculated in MATLAB. The dashboard, built with Streamlit, will feature interactive charts and filters to help residents, local officials, planners and educators identify the biggest barriers to mobility in the Cuba area. Guided by a peace-engineering approach, the project aims to point toward practical, affordable and equitable solutions, such as prioritizing maintenance on school bus and clinic routes, adding commuter-timed transit, building safer walking and biking options in the village, and supporting carpools, that could improve residents' well-being, economic opportunity and access to essential services.
+
+Expected Contributions
+
+Team members will collaborate on all aspects of the project, with individual roles assigned as follows:
+
+Project coordination and road quality research: Julian Caballero (PM). Oversee the project and team deadlines, verify that data is accurate and relevant, and research the condition and maintenance of roads in and around Cuba.
+Travel modes and vehicle data: Holden Justus. Collect data on the transportation methods and vehicle types Cuba residents use.
+Writing analysis code and producing visualizations: Holden Justus. Create graphs and tables in Python (e.g., Pandas and Matplotlib) to represent the team's data.
+Fuel consumption and cost research: Javas Maria. Collect data on gas use and fuel prices and estimate how fuel costs affect the community.
+Transportation inefficiency research: Mariano Montenegro. Study how vehicle breakdowns, long waits and unreliable transit affect residents.
+Data cleaning and preprocessing: Mariano Montenegro. Clean and periodically review all gathered data to catch discrepancies and keep the final results accurate.
+Managing GitHub workflow (branches, commits, merges): Julian Caballero. Maintain the repository and make sure every member uploads data and sources so the team stays in sync.
+Building the Streamlit application: [Assign team member]. Design the user interface, integrate visualizations, and deploy the dashboard.
+Presentation slides: Julian Caballero. Compile the final presentation.
+Final video: Javas Maria. Edit and compile the video footage and make sure the video meets all requirements.
+Writing documentation and project report: Julian Caballero. Author the README and final report, including methodology and findings.
+Dataset
+Primary: Census Reporter – ACS Table B08006, Means of Transportation to Work (Cuba, NM)
+Supporting: NMDOT US 550 Wildlife Crossings Project, NMDOT Active Projects, Rio Metro – Sandoval County, Sandoval County Roads, MRCOG 2024 Traffic Flow Map, Data USA – Cuba, NM, UNM BBER – Cuba village population & demographics, U.S. EIA – SEDS motor gasoline consumption, AAA – New Mexico gas prices, Census Reporter – Cuba, NM profile
