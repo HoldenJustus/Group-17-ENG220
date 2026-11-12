@@ -16,7 +16,6 @@ Fuel consumption and cost research: Javas Maria. Collect data on gas use and fue
 Transportation inefficiency research: Mariano Montenegro. Study how vehicle breakdowns, long waits and unreliable transit affect residents.
 Data cleaning and preprocessing: Mariano Montenegro. Clean and periodically review all gathered data to catch discrepancies and keep the final results accurate.
 Managing GitHub workflow (branches, commits, merges): Julian Caballero. Maintain the repository and make sure every member uploads data and sources so the team stays in sync.
-Building the Streamlit application: [Assign team member]. Design the user interface, integrate visualizations, and deploy the dashboard.
 Presentation slides: Julian Caballero. Compile the final presentation.
 Final video: Javas Maria. Edit and compile the video footage and make sure the video meets all requirements.
 Writing documentation and project report: Julian Caballero. Author the README and final report, including methodology and findings.
