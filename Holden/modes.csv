@@ -1,0 +1,8 @@
+Geography,Label,Count,CountMOE,Percent,PercentMOE,Reliability,TotalBase
+"Cuba, NM",Drove alone,174,79,76.3157894736842,14.5123452607433,Medium,228
+"Cuba, NM",Carpooled,12,19,5.26315789473684,8.04586758818996,Low,228
+"Cuba, NM",Public transportation,0,14,0,6.14035087719298,Low,228
+"Cuba, NM",Bicycle,0,14,0,6.14035087719298,Low,228
+"Cuba, NM",Walked,5,8,2.19298245614035,3.39028606795659,Low,228
+"Cuba, NM",Taxi/ride-hailing/motorcycle/other,0,14,0,6.14035087719298,Low,228
+"Cuba, NM",Worked from home,37,26,16.2280701754386,9.23455208981221,Low,228
