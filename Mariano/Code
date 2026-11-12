@@ -1,0 +1,21 @@
+# Mariano Montenegro – ENG 220
+
+## Transportation in Cuba, New Mexico
+
+For my part of the group project, I collected transportation data from the U.S. Census, Rio Metro, and NMDOT. I used MATLAB to clean the data, calculate percentages, and create graphs showing transportation problems in Cuba, New Mexico.
+
+I also created a Streamlit app to display information about road conditions, public transportation, and wildlife collisions on US 550.
+
+### Files
+- `cubatransportation.m` – MATLAB code for Census data.
+- `riometro.m` – MATLAB code for bus schedules.
+- `.csv` files – Original and cleaned data.
+- `.png` files – Graphs created from the data.
+- `streamlit_app.py` – Code for my Streamlit website.
+
+### Sources
+- U.S. Census Bureau (2024 ACS)
+- Rio Metro Route 8
+- New Mexico Department of Transportation (NMDOT)
+My streamlit:
+https://group-17-eng220-nkjypgdazxnmtckiaaliuy.streamlit.app/
