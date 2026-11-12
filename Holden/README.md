@@ -2,7 +2,7 @@
 
 ## Streamlit Application
 
-**View the interactive application:** [Cuba Transportation Dashboard]([https://group17-eng220-holdenjustus.streamlit.app/])
+**View the interactive application:** [Cuba Transportation Dashboard](https://group17-eng220-holdenjustus.streamlit.app/)
 
 ## Overview
 
